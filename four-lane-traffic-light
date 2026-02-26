@@ -1,0 +1,7 @@
+## 2-Way Traffic Light Controller (4-Lane Junction)
+
+Features:
+- Moore FSM
+- Pedestrian override (NS and EW)
+- Parameterized clock divider
+- Fully synthesizable RTL
