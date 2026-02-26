@@ -5,8 +5,8 @@ This repository contains Verilog implementations of different traffic light cont
 ## 📌 Projects Included
 
 - Single Lane Traffic Light Controller
-- (Future) Four Lane Traffic Light Controller
-- (Future) Pedestrian Controlled Traffic System
+-  Four Lane Traffic Light Controller
+-  Pedestrian Controlled Traffic System
 
 ## 🛠 Technologies Used
 
